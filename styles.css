@@ -1,0 +1,29 @@
+h1 {
+	color:#CD5C5C;
+}
+body {
+	color:#84AE9A;
+	font-family:ubuntu;
+}
+code{
+	text-align:left;
+	color:#000000 ;
+	background: #EEE;
+}
+a:link{
+	color:#CD5C5C;
+}
+a:visited{
+	color:#DABDAB;
+}
+a:hover{
+	color:#DABDAB;
+}
+#Header_img{
+	position:relative;
+	float:right;
+}
+#headlink{
+	color:#CD5C5C;
+	text-decoration: none;
+}
