@@ -1,27 +1,20 @@
-h1 {
-	color:#CD5C5C;
-}
-body {
+body{
 	color:#84AE9A;
 	font-family:ubuntu;
 }
 code{
-	color:#000000 ;
+	color:black;
 	background: #EEE;
 }
-a:link{
+h1, a:link, #headlink{
 	color:#CD5C5C;
 }
-a:visited{
-	color:#DABDAB;
-}
-a:hover{
+a:visited, a:hover{
 	color:#DABDAB;
 }
 #Header_img{
 	float:right;
 }
 #headlink{
-	color:#CD5C5C;
 	text-decoration: none;
 }
