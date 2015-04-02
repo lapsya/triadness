@@ -6,15 +6,32 @@ code {
 	color: black;
 	background: #EEE;
 }
+header, .navigation{
+	text-align:center;
+}
+header img{
+	float:left;
+}
+header a:hover, .navigation a:hover{
+	background:#EEE;
+}
 h1, a:link, #headlink {
 	color: #CD5C5C;
 }
 a:visited, a:hover {
 	color: #DABDAB;
 }
-#Header_img {
-	float: right;
-}
-#headlink {
+#headlink, .navigation a{
 	text-decoration: none;
+	display:block;
+}
+li{
+	list-style-type: none;
+}
+.clearfix::after {
+	width: 0;
+	height: 0;
+	clear: both;
+	display: block;
+	content: '';
 }
