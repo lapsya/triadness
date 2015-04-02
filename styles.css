@@ -6,7 +6,6 @@ body {
 	font-family:ubuntu;
 }
 code{
-	text-align:left;
 	color:#000000 ;
 	background: #EEE;
 }
@@ -20,7 +19,6 @@ a:hover{
 	color:#DABDAB;
 }
 #Header_img{
-	position:relative;
 	float:right;
 }
 #headlink{
