@@ -1,29 +1,20 @@
-h1 {
-	color:#CD5C5C;
-}
 body {
-	color:#84AE9A;
-	font-family:ubuntu;
+	color: #84AE9A;
+	font-family: ubuntu;
 }
-code{
-	text-align:left;
-	color:#000000 ;
+code {
+	color: black;
 	background: #EEE;
 }
-a:link{
-	color:#CD5C5C;
+h1, a:link, #headlink {
+	color: #CD5C5C;
 }
-a:visited{
-	color:#DABDAB;
+a:visited, a:hover {
+	color: #DABDAB;
 }
-a:hover{
-	color:#DABDAB;
+#Header_img {
+	float: right;
 }
-#Header_img{
-	position:relative;
-	float:right;
-}
-#headlink{
-	color:#CD5C5C;
+#headlink {
 	text-decoration: none;
 }
