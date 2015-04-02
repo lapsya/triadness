@@ -1,20 +1,20 @@
-body{
-	color:#84AE9A;
-	font-family:ubuntu;
+body {
+	color: #84AE9A;
+	font-family: ubuntu;
 }
-code{
-	color:black;
+code {
+	color: black;
 	background: #EEE;
 }
-h1, a:link, #headlink{
-	color:#CD5C5C;
+h1, a:link, #headlink {
+	color: #CD5C5C;
 }
-a:visited, a:hover{
-	color:#DABDAB;
+a:visited, a:hover {
+	color: #DABDAB;
 }
-#Header_img{
-	float:right;
+#Header_img {
+	float: right;
 }
-#headlink{
+#headlink {
 	text-decoration: none;
 }
